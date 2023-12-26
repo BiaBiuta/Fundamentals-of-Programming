@@ -1,0 +1,10 @@
+1,IphoneX,phone,Apple,50,supply
+2,SmartTv,tv,LG,10,sale
+3,Galaxy S,phone,Samsung,20,supply
+4,IPhone,phone,Apple,20,sale
+5,Galaxy S,phone,Samsung,30,sale
+6,SmartTv,tv,Samsung,50,supply
+7,Huawei,phone,Huawei,25,supply
+8,Ipad,tableta,Huawei,25,supply
+9,Lenovo,laptop,Huawei,25,supply
+10,Huawei,tableta,Huawei,4,sale
